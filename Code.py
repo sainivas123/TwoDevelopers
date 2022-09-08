@@ -1,4 +1,4 @@
 #This is development code
-def h_w():
+def hw():
   return("Hello world")
 print(hw())
