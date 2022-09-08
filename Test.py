@@ -6,11 +6,11 @@ import unittest
 class SimpleCalll(unittest.TestCase):
 
      def setUp(self):
-          print "Setup"
+          print("Setup")
 
 
      def tearDown(self):
-          print "Tear down"
+          print("Tear down")
 
 
      def test_main(self):
