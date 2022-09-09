@@ -1,4 +1,6 @@
 #This is development code
 def hw():
   return("Hello world")
-#print(hw())
+
+if "__name__"=="__main__":
+  print(hw())
